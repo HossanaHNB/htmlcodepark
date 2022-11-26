@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head> 
+    <title>RECIFE</title>
+</head>
+
+<header>
+    <img src="" alt="">
+    <br>
+    <br>
+   <nav class="menu">
+    <ul>
+  <li>Categorias
+        <ul>
+         <li><a href="">Visite porto de galinhas</a></li>
+         <li><a href="">Culinária</a></li>
+         
+        </ul>
+       
+   </li>
+        <form>
+        <input type="search" name="q" placeholder="Search query">
+        <input type="submit" value="Go!">
+        </form>
+    </ul>
+   </nav>
+
+
+</header>
+<body>
+    <h1>
+        <img sr"https://www.melhoresdestinos.com.br/wp-content/uploads/2022/04/enotel-porto-de-galinhas-pacotes-capa-22-820x430.jpg"
+    </h1>
+    Porto de Galinhas é considerado um dos melhores destinos do nordeste do Brasil. Um lugar perfeito para quem deseja sair da rotina e descansar na beira do mar enquanto conhece algumas das melhores praias do nosso país.  
+
+O clima quente, um mar de águas cristalinas, com variedade de espécies marinhas e piscinas naturais são um convite irresistível para um mergulho em Porto de Galinhas. 
+
+Saiba tudo sobre Porto de Galinhas: onde fica, qual a melhor época para ir, como chegar, quantos dias ficar, onde se hospedar e muito mais!
+Considerado um dos melhores destinos do litoral do nordeste brasileiro, Porto de Galinhas é um distrito da cidade de Ipojuca, no estado de Pernambuco e fica a cerca de 60 km do aeroporto Guararapes em Recife, a capital do estado. Porto de Galinhas: muitas belezas naturais em Pernambuco!
+
+Os turistas que visitam Porto de Galinhas, em Ipojuca (PE), terão em breve uma nova opção de lazer, gastronomia e compras. Trata-se do “Plaza Mar”, um shopping que será instalado à beira-mar na área do resort Enotel, mas aberto a todos os turistas. Segundo a Prefeitura da cidade este será o primeiro shopping “pé na areia” do Brasil, com previsão de abertura em novembro do ano que vem.
+
+Segundo os construtores, o shopping Plaza Mar terá uma área bruta locável de 10.500 m² e 500 vagas de estacionamento. O investimento deve chegar a R$ 200 milhões. “O conceito dos shopping será temático com foco no entretenimento e será composto por cerca de 60 a 80 lojas de importantes marcas já confirmadas”. detalha o site da Prefeitura do Ipojuca.
+    <h2>
+    
+        <img src="https://www.melhoresdestinos.com.br/wp-content/uploads/2022/04/enotel-porto-de-galinhas-pacotes-capa-22-820x430.jpg" alt="">
+        <p><span id="pontos">...</span><span id="mais"></span></p>
+        <button onclick="" id="btnLeiaMais">Leia Mais</button>
+    </h2>
+
+    <footer>
+        <img src="" alt="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSql3EVvmmzSmeIGKsCB1urFCD1URqQsN_lsM19AXWboA&s">
+        <li>Siga nossas redes
+            <ul>
+             <li><a href="">Whatsapp</a></li>
+             <li><a href="">Facebook</a></li>
+             <li><a href="">Instagram</a></li>
+             <li><a href="">Youtube</a></li>
+            
+            </ul>
+    </footer>
+</body>
+</html>
