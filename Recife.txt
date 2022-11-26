@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head> 
+    <title>RECIFE</title>
+</head>
+
+<header>
+    <img src="" alt="">
+    <br>
+    <br>
+   <nav class="menu">
+    <ul>
+  <li>Categorias
+        <ul>
+         <li><a href="">História</a></li>
+         <li><a href="">Culinária</a></li>
+         <li><a href=""Artesanato</a></li>
+         <li><a href="">Turismo</a></li>
+         <li><a href="">Pontos Turísticos</a></li>
+         <li><a href="">Hospedagem</a></li>
+        </ul>
+       
+   </li>
+        <form>
+        <input type="search" name="q" placeholder="Search query">
+        <input type="submit" value="Go!">
+        </form>
+    </ul>
+   </nav>
+
+
+</header>
+<body>
+    <h1>
+        <img src=https://imgmd.net/images/c_limit%2Cw_1200/v1/guia/1684247/recife-108-c.jpg
+    </h1>
+    <h2>
+    
+        <img src="" alt="">
+        <p><span id="pontos">...</span><span id="mais"></span></p>
+        <button onclick="" id="btnLeiaMais">Leia Mais</button>
+    </h2>
+
+    <footer>
+        <img src="" alt="https://www.vidadeturista.com/wp-content/uploads/2009/03/recife-pe-530x398.jpg">
+        <li>Siga nossas redes
+            <ul>
+             <li><a href="">Whatsapp</a></li>
+             <li><a href="">Facebook</a></li>
+             <li><a href="">Instagram</a></li>
+             <li><a href="">Youtube</a></li>
+            
+            </ul>
+    </footer>
+</body>
+</html>
