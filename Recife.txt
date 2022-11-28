@@ -32,17 +32,18 @@
 </header>
 <body>
     <h1>
-        <img src="https://imgmd.net/images/c_limit%2Cw_800/v1/guia/1677522/marco-zero.jpg"
+        
     </h1>
-    O Marco Zero, na Praça Rio Branco, é conhecido como local de fundação da cidade do Recife e também como ponto inicial de contagem das distâncias calculadas a partir da cidade. O lugar é um dos pontos mais importantes na capital Pernambucana, pois é também uma região de forte movimento durante o Carnaval. 
-
-Aproveite sua visita para tirar uma foto com os dois marcos (o antigo e o novo), observar a vista para o Parque de Esculturas e os edifícios do Centro Cultural da Caixa e da Associação Comercial de Pernambuco.
-
-Se quiser fazer compras, vale a pena visitar o novo Mercado de Artesanato, que também fica no local. 
+   
     <h2>
     
         <img src="" alt="https://imgmd.net/images/c_limit%2Cw_800/v1/guia/1677521/marco-zero.jpg">
-        <p><span id="pontos">...</span><span id="mais"></span></p>
+        <p><span id="pontos"> 
+        O Marco Zero, na Praça Rio Branco, é conhecido como local de fundação da cidade do Recife e também como ponto inicial de contagem das distâncias calculadas a partir da cidade. O lugar é um dos pontos mais importantes na capital Pernambucana, pois é também uma região de forte movimento durante o Carnaval. 
+
+Aproveite sua visita para tirar uma foto com os dois marcos (o antigo e o novo), observar a vista para o Parque de Esculturas e os edifícios do Centro Cultural da Caixa e da Associação Comercial de Pernambuco.
+
+Se quiser fazer compras, vale a pena visitar o novo Mercado de Artesanato, que também fica no local. </span><span id="mais"></span></p>
         <button onclick="" id="btnLeiaMais">Leia Mais</button>
     </h2>
 
