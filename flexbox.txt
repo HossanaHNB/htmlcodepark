@@ -1,0 +1,696 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"/>
+<title>UFOLOGIA
+
+</title>Visão Remota
+
+</head>
+body>
+    <h1>
+        <img src="https://portaldoandreoli.com.br/wp-content/uploads/2019/11/visao.jpg" alt="">
+        <p><span id="pontos">Visão Remota e o Programa Stargate da CIA</span><br><br>
+<body>
+<Pois bem,  assim sendo, se imaginarmos que aqui em nosso quotidiano somos submetidos a regras e leis, podemos imaginar o seguinte exemplo visualizando o Brasil: : temos um sistema de administração política que delega funções, subprefeitura em cada bairro, prefeitura com prefeito e vereadores em cada município; governador e deputados estaduais em cada estado; presidente  e deputados estaduais e federais. Em cada país existe um sistema de administração, com suas peculiaridades, que podem ou não ser parecidos com nosso país.
+
+Com esta ideia em mente, expandindo nosso raciocínio  a respeito da possibilidade de existirem  planetas com habitantes parecidos ou não com a raça humana, provavelmente, serão organizados por grupos e líderes, conforme o entendimento de cada local. Esta possibilidade a muitos anos vem sendo descrita por várias pessoas que dizem terem sido contatadas por seres extraterrestres, quando não por pessoas que em determinado momento fizeram parte de missões ultra secretas de governos que mantiveram contato com seres extraterrestres.
+
+Livros e filmes sugerem, ou afirmam, a existência de uma Confederação de Mundos da Galáxia. Quero trazer para você nomes de pessoas, e alguns conceitos, técnicos, mas que foram e são base do que um dia poderá nortear uma inserção neste comunidade Universal.
+
+O advogado e escritor americano Alfred Lambremont Webre, muito experiente em política, tendo em seu currículo trabalhos com os ex-presidentes como Jimmy Carter e Bill Clinton, desenvolve há muitos anos um estudo profundo do que seria o relacionamento com essa comunidade extraterrestre. Ele criou a concepção da “Exopoliítica”, registrando os desdobramentos do que é um estudo na área do Direito, mas obviamente para o futuro.
+
+Exopolítica é o nome de um novo campo de conhecimento dedicado à regulamentação da relação da espécie humana da Terra, com espécies inteligentes provenientes de outras partes do Universo, incluindo os seres que possam existir em outras dimensões do espaço-tempo.
+
+Ainda não existe um número exato de planetas e raças existentes com potencial de relacionamento com os humanos do planeta terra, muito embora cientistas de todas os campos tenham contribuído com obras muito complexas, na busca de respostas.
+
+Assim como no Planeta Terra temos a organização das Nações Unidas, vários contatados relatam a existência de uma forma de organização interplanetária. Imagina-se haver um órgão similar à ONU, assim, cada planeta enviaria um representante para discutir seus interesses dentro dos direitos e obrigações das leis universais a que cada governo planetário está submetido. Essas regras, acredita-se, regulam a atividade interplanetária do comércio, escambo, exploração, intervenção em planetas não confederados, assim como o nosso, que estão à margem das regras universais adotadas.
+
+Este conceito, surgiu anteriormente nas obras de escritores ilustres como Helena Blavatsky  (1831 – 1891), mas com o nome de Federação Galática da Luz, e no movimento da Fraternidade Branca dos Mestres Ascensionados, descrevendo hierarquias celestes que interagem na Terra  desde tempos remotos.
+
+O  vidente Edgar Cayce em 1940, supôs uma hierarquia, que segundo ele teria em seu topo os seres do planeta Arcturos.
+
+Em 1948, George Van Tassel , fundador da  “Irmandade do Cristo Cósmico”, canalizava  Ashtar Sheran, e foi muito estudado pelo FBI https://vault.fbi.gov/george-van-tassel  junto ao amigo, e  ex-parceiro Robert Short , editor de uma revista de ufologia e membro do Ministério da Sabedoria Universal, que mencionou a organização universal como uma forma de federação de planetas.  Thelma B. Terrell, conhecida por “Tuella”, responsável por escrever o “Projeto de Evacuação do Comando Ashtar “ em 1982 , descreveu em seus trabalhos uma hierarquia com organização similar à que existe nos exércitos  daqui da Terra. Sixto Paz Wells em seu livro “Guias Extraterrestres”, descreve a Confederação de Mundos da Galáxias, e dois conselhos em apoio.
+
+Com a internet, vários estudiosos alavancaram, em especial Kerry Cassidy, uma das minhas preferidas, apresentado  pessoas que comprovadamente foram membros de forças armadas, ou de núcleos políticos governamentais, descrevendo raças evoluídas, com sistemas administrativos e políticos, os quais teriam até influenciado o desenvolvimento  das civilizações  que existiram e existem no Planeta Terra.
+
+Podemos crer que, Universo afora, existe um princípio inteligente que organiza, regula e delega funções, direitos e obrigações,  sanções, exatamente como existe aqui.
+
+O  programa Hyper Base contém, em sua banco de dados, textos completos recheados de conceitos com definições da  federação  planetária. A Federação (Unida) de Planetas é outro nome para a Associação dos Mundos, que é uma organização extraterrestre que foi estabelecida para vários propósitos. Observe que “Associação de Mundos” e “Federação de Planetas” são apenas duas maneiras de denominar o mesmo grupo. Muitas dessas informações são canalizadas, embora corroboradas por muitos contatados e por algumas testemunhas trabalhando em projetos secretos.
+
+Exopolítica, existe queiramos ou não, e vêm sendo exercida pelos dirigentes de dentro e de fora desse  planetas. Conscientes, ou não, dessa grandiosidade, sempre estaremos sujeitos aos representantes políticos, fato que não nos impede de estudarmos, ainda que neste momento esse estudo seja mais de elucubrações do que de certezas, como afirmam contatados modernos.
+
+Observou-se a criação de um número expressivo de  grupos comprometidos no estudo e difusão de conhecimento, sinalizando um interesse advindo do questionamento de pessoas comuns, que olharam para o céu e sentiram  dentro da alma, que  há alguém além de nós!!!
+
+Existe a expectativa de que o Planeta Terra seja convidado a se confederar, e tomar conhecimento deste sistema de regras e educação universal.
+
+Você já pensou nisso?
+
+Um beijo na alma e até semana que vem.>
+
+</body>
+
+p {
+    color: white;
+    width: 500px;
+    border: 1px solid black;
+   
+    <h1>display: block;</h1>
+<section class="container">
+	<div class="item">1</div>
+	<div class="item">2</div>
+	<div class="item">3</div>
+	<div class="item">4</div>
+</section>
+
+<h1>display: flex;</h1>
+<section class="container flex">
+	<div class="item">1</div>
+	<div class="item">2</div>
+	<div class="item">3</div>
+	<div class="item">4</div>
+</section>
+
+<h1>display: flex;</h1>
+<section class="container flex">
+	<div class="item">Teste 1</div>
+	<div class="item">Teste 2</div>
+	<div class="item">Teste 3</div>
+	<div class="item">Teste 4</div>
+	<div class="item">Teste 5</div>
+	<div class="item">Teste 6</div>
+	<div class="item">Teste 7</div>
+</section>
+
+<h1>display: flex;</h1>
+<section class="container flex flex-wrap">
+	<div class="item">Teste 1</div>
+	<div class="item">Teste 2</div>
+	<div class="item">Teste 3</div>
+	<div class="item">Teste 4</div>
+	<div class="item">Teste 5</div>
+	<div class="item">Teste 6</div>
+	<div class="item">Teste 7</div>
+</section>
+
+<h1>display: flex; // flex-item-1</h1>
+<section class="container flex">
+	<div class="item flex-item-1">Teste 1</div>
+	<div class="item flex-item-1">Teste 2</div>
+	<div class="item flex-item-1">Teste 3</div>
+</section>
+<h1>flex-direction: row;</h1>
+<section class="container row">
+	<div class="item">1</div>
+	<div class="item">2</div>
+	<div class="item">3</div>
+</section>
+
+<h1>flex-direction: row-reverse;</h1>
+<section class="container row-reverse">
+	<div class="item">1</div>
+	<div class="item">2</div>
+	<div class="item">3</div>
+</section>
+
+<h1>flex-direction: column;</h1>
+<section class="container column">
+	<div class="item">1</div>
+	<div class="item">2</div>
+	<div class="item">3</div>
+</section>
+
+<h1>flex-direction: column-reverse;</h1>
+<section class="container column-reverse">
+	<div class="item">1</div>
+	<div class="item">2</div>
+	<div class="item">3</div>
+</section>
+<h1>flex-wrap: nowrap;</h1>
+<section class="container nowrap">
+<!-- O nome grudado foi necessário pois eu preciso definir um conteúdo que não possa ser quebrado. Como uma palavra ou uma imagem. Se fosse uma frase, ele quebraria as linhas da frase antes de ultrapassar o container.	 -->
+	<div class="item">TesteDoItem1</div>
+	<div class="item">TesteDoItem2</div>
+	<div class="item">TesteDoItem3</div>
+</section>
+
+<h1>flex-wrap: wrap;</h1>
+<section class="container wrap">
+	<div class="item">TesteDoItem1</div>
+	<div class="item">TesteDoItem2</div>
+	<div class="item">TesteDoItem3</div>
+</section>
+
+<h1>flex-wrap: wrap-reverse;</h1>
+<section class="container wrap-reverse">
+	<div class="item">TesteDoItem1</div>
+	<div class="item">TesteDoItem2</div>
+	<div class="item">TesteDoItem3</div>
+</section>
+.flex-start {
+	justify-content: flex-start;
+}
+
+.flex-end {
+	justify-content: flex-end;
+}
+
+.center {
+	justify-content: center;
+}
+
+.space-between {
+	justify-content: space-between;
+}
+
+.space-around {
+	justify-content: space-around;
+}
+
+/* Flex Container */
+.container {
+	max-width: 420px;
+	margin: 0 auto;
+	display: flex;
+	border: 1px solid #ccc;
+}
+
+.column {
+	min-height: 200px;
+	flex-direction: column;
+}
+
+/* Flex Item */
+.item {
+	margin: 5px;
+	padding: 0 10px;
+	background: tomato;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+/* Indica que o conteúdo deve se expandir */
+.flex {
+	flex: 1;
+}
+
+h1 {
+	text-align: center;
+	margin: 20px 0 0 0;
+	font-size: 1.25em;
+	font-weight: normal;
+}
+
+body {
+	font-family: monospace;
+	color: #333;
+}
+<h1>align-items: stretch;</h1>
+<section class="container stretch">
+	<div class="item">1</div>
+	<div class="item">Teste 2 do Item</div>
+	<div class="item">Teste 3 do Item Agora Mesmo</div>
+	<div class="item">Teste 4</div>
+</section>
+
+<h1>align-items: flex-start;</h1>
+<section class="container flex-start">
+	<div class="item">1</div>
+	<div class="item">Teste 2 do Item</div>
+	<div class="item">Teste 3 do Item Agora Mesmo</div>
+	<div class="item">Teste 4</div>
+</section>
+
+<h1>align-items: flex-end;</h1>
+<section class="container flex-end">
+	<div class="item">1</div>
+	<div class="item">Teste 2 do Item</div>
+	<div class="item">Teste 3 do Item Agora Mesmo</div>
+	<div class="item">Teste 4</div>
+</section>
+
+<h1>align-items: center;</h1>
+<section class="container center">
+	<div class="item">1</div>
+	<div class="item">Teste 2 do Item</div>
+	<div class="item">Teste 3 do Item Agora Mesmo</div>
+	<div class="item">Teste 4</div>
+</section>
+
+<h1>align-items: baseline;</h1>
+<section class="container baseline">
+	<div class="item teste">1</div>
+	<div class="item">Teste 2 do Item</div>
+	<div class="item">Teste 3 do Item Agora Mesmo</div>
+	<div class="item">Teste 4</div>
+</section>
+
+<h1>align-items: flex-stretch; // column</h1>
+<section class="container stretch column">
+	<div class="item">1</div>
+	<div class="item">Teste 2 do Item</div>
+	<div class="item">Teste 3 do Item Agora Mesmo</div>
+	<div class="item">Teste 4</div>
+</section>
+
+<h1>align-items: flex-start; // column</h1>
+<section class="container flex-start column">
+	<div class="item">1</div>
+	<div class="item">Teste 2 do Item</div>
+	<div class="item">Teste 3 do Item Agora Mesmo</div>
+	<div class="item">Teste 4</div>
+</section>
+
+<h1>align-items: flex-end; // column</h1>
+<section class="container flex-end column">
+	<div class="item">1</div>
+	<div class="item">Teste 2 do Item</div>
+	<div class="item">Teste 3 do Item Agora Mesmo</div>
+	<div class="item">Teste 4</div>
+</section>
+
+<h1>align-items: center; // column</h1>
+<section class="container center column">
+	<div class="item">1</div>
+	<div class="item">Teste 2 do Item</div>
+	<div class="item">Teste 3 do Item Agora Mesmo</div>
+	<div class="item">Teste 4</div>
+</section>
+
+<h1>align-items: baseline; // column</h1>
+<section class="container baseline column">
+	<div class="item teste">1</div>
+	<div class="item">Teste 2 do Item</div>
+	<div class="item">Teste 3 do Item Agora Mesmo</div>
+	<div class="item">Teste 4</div>
+</section>
+
+<h1>align-items: center; e justfy-content: center;</h1>
+<section class="container alinhamento-central">
+	<div class="item">Esse item está verticalmente alinhado ao centro.</div>
+</section>
+<h1>align-content: stretch;</h1>
+<section class="container stretch">
+	<div class="item">TestandoPalavra1</div>
+	<div class="item">Teste 2 do Item</div>
+	<div class="item">Teste 3 do Item Agora Mesmo</div>
+	<div class="item">Teste 4</div>
+	<div class="item">Teste 5</div>
+	<div class="item">Teste 6</div>
+	<div class="item">Teste 7</div>
+	<div class="item">Teste 8</div>
+</section>
+
+<h1>align-content: flex-start;</h1>
+<section class="container flex-start">
+	<div class="item">TestandoPalavra1</div>
+	<div class="item">Teste 2 do Item</div>
+	<div class="item">Teste 3 do Item Agora Mesmo</div>
+	<div class="item">Teste 4</div>
+	<div class="item">Teste 5</div>
+	<div class="item">Teste 6</div>
+	<div class="item">Teste 7</div>
+	<div class="item">Teste 8</div>
+</section>
+
+<h1>align-content: flex-end;</h1>
+<section class="container flex-end">
+	<div class="item">TestandoPalavra1</div>
+	<div class="item">Teste 2 do Item</div>
+	<div class="item">Teste 3 do Item Agora Mesmo</div>
+	<div class="item">Teste 4</div>
+	<div class="item">Teste 5</div>
+	<div class="item">Teste 6</div>
+	<div class="item">Teste 7</div>
+	<div class="item">Teste 8</div>
+</section>
+
+<h1>align-content: center;</h1>
+<section class="container center">
+	<div class="item">TestandoPalavra1</div>
+	<div class="item">Teste 2 do Item</div>
+	<div class="item">Teste 3 do Item Agora Mesmo</div>
+	<div class="item">Teste 4</div>
+	<div class="item">Teste 5</div>
+	<div class="item">Teste 6</div>
+	<div class="item">Teste 7</div>
+	<div class="item">Teste 8</div>
+</section>
+
+<h1>align-content: space-between;</h1>
+<section class="container space-between">
+	<div class="item">TestandoPalavra1</div>
+	<div class="item">Teste 2 do Item</div>
+	<div class="item">Teste 3 do Item Agora Mesmo</div>
+	<div class="item">Teste 4</div>
+	<div class="item">Teste 5</div>
+	<div class="item">Teste 6</div>
+	<div class="item">Teste 7</div>
+	<div class="item">Teste 8</div>
+</section>
+
+<h1>align-content: space-around;</h1>
+<section class="container space-around">
+	<div class="item">TestandoPalavra1</div>
+	<div class="item">Teste 2 do Item</div>
+	<div class="item">Teste 3 do Item Agora Mesmo</div>
+	<div class="item">Teste 4</div>
+	<div class="item">Teste 5</div>
+	<div class="item">Teste 6</div>
+	<div class="item">Teste 7</div>
+	<div class="item">Teste 8</div>
+</section>
+<h1>flex-grow: 0;</h1>
+<section class="container">
+	<div class="item grow0">1</div>
+	<div class="item grow0">2</div>
+	<div class="item grow0">3</div>
+</section>
+
+<h1>flex-grow: 1;</h1>
+<section class="container">
+	<div class="item grow1">1</div>
+	<div class="item grow1">2</div>
+	<div class="item grow1">3</div>
+</section>
+
+<h1>flex-grow: 2;</h1>
+<section class="container column">
+	<div class="item grow2">1</div>
+	<div class="item grow2">2</div>
+	<div class="item grow2">3</div>
+</section>
+
+<h1>flex-grow: 1; // conteúdo largo</h1>
+<section class="container column-reverse">
+	<div class="item grow1">1</div>
+	<div class="item grow1">TestandoTestando2</div>
+	<div class="item grow1">3</div>
+</section>
+
+<h1>flex-grow: (misturado);</h1>
+<section class="container column-reverse">
+	<div class="item grow0">1</div>
+  <h1>flex-basis: auto;</h1>
+<section class="container">
+	<div class="item basis-auto">Palavra 1</div>
+	<div class="item basis-auto">2</div>
+	<div class="item basis-auto-grow-2">3</div>
+	<div class="item basis-auto-width">4</div>
+	<div class="item basis-auto-grow-0">5</div>
+</section>
+
+<section class="container overlay">
+	<div class="item basis-auto">Palavra 1</div>
+	<div class="item basis-auto">2</div>
+	<div class="item basis-auto-grow-2">3</div>
+	<div class="item basis-auto-width">4</div>
+	<div class="item basis-auto-grow-0">5</div>
+</section>
+
+<h1>flex-basis: 0;</h1>
+<section class="container">
+	<div class="item basis-0">Test de Cont</div>
+	<div class="item basis-0">2</div>
+	<div class="item basis-0-grow-2">Palavra</div>
+	<div class="item basis-0-width">4</div>
+	<div class="item basis-0-grow-0">5</div>
+</section>
+
+<section class="container overlay">
+	<div class="item basis-0">Test de Cont</div>
+	<div class="item basis-0">2</div>
+	<div class="item basis-0-grow-2">Palavra</div>
+	<div class="item basis-0-width">4</div>
+	<div class="item basis-0-grow-0">5</div>
+</section>
+
+<h1>flex-basis: número;</h1>
+<section class="container basis-numero-container">
+	<div class="item basis-110">1</div>
+	<div class="item basis-110">12</div>
+	<div class="item basis-110">12345678910</div>
+	<div class="item basis-300">1234</div>
+	<div class="item basis-110-porcento">1</div>
+	<div class="item basis-110-porcento">12</div>
+	<div class="item basis-110-porcento">123</div>
+	<div class="item basis-110-porcento">1234</div>
+</section>
+
+<h1>flex-basis: número; // Diferente Conteúdo</h1>
+<section class="container basis-numero-container">
+	<div class="item basis-110">Conteúdo Grande</div>
+	<div class="item basis-110">PalavraMaior</div>
+	<div class="item basis-110">Oi</div>
+</section>
+
+<h1>flex-basis: número; // grow 1</h1>
+<section class="container basis-numero-container">
+	<div class="item basis-110-grow-1">1</div>
+	<div class="item basis-110-grow-1">12</div>
+	<div class="item basis-110-grow-1">1234</div>
+	<div class="item basis-110-grow-1">12345</div>
+	<div class="item basis-600-grow-1">5</div>
+</section>
+<h1>flex-shrink: 1;</h1>
+<section class="container">
+	<div class="item shrink-1">1</div>
+	<div class="item shrink-1">2</div>
+	<div class="item shrink-1">3</div>
+	<div class="item shrink-1">4</div>
+</section>
+
+<h1>flex-shrink: 1; // Conteúdo diferente</h1>
+<section class="container">
+	<div class="item shrink-1">1</div>
+	<div class="item shrink-1">Teste 2</div>
+	<div class="item shrink-1">Oi 3</div>
+	<div class="item shrink-1">4</div>
+</section>
+
+<h1>flex-shrink: misturado; // Conteúdo diferente</h1>
+<section class="container">
+	<div class="item shrink-1">1</div>
+	<div class="item shrink-1">Teste 2</div>
+	<div class="item shrink-3">Oi 3</div>
+	<div class="item shrink-3">4</div>
+</section>
+
+<h1>flex-shrink: 1; // Conteúdo maior que o container</h1>
+<section class="container">
+	<div class="item shrink-1">TesteTesteTesteTeste</div>
+	<div class="item shrink-1">TesteTesteTeste 2</div>
+	<div class="item shrink-1">Oi 3</div>
+	<div class="item shrink-1">4</div>
+</section>
+
+<h1>flex-shrink: misturado; // Conteúdo maior que o container</h1>
+<section class="container">
+	<div class="item shrink-1">TesteTesteTesteTeste</div>
+	<div class="item shrink-1">TesteTesteTeste 2</div>
+	<div class="item shrink-3">Oi 3</div>
+	<div class="item shrink-3">4</div>
+</section>
+
+<h1>flex-shrink: 1; / flex-basis: valor;</h1>
+<section class="container">
+	<div class="item shrink-1-basis">TesteTesteTesteTeste</div>
+	<div class="item shrink-1-basis">TesteTesteTeste 2</div>
+	<div class="item shrink-1-basis">Oi 3</div>
+	<div class="item shrink-1-basis">4</div>
+</section>
+
+<h1>flex-shrink: 0; / flex-basis: valor;</h1>
+<section class="container">
+	<div class="item shrink-0-basis">TesteTesteTesteTeste</div>
+	<div class="item shrink-0-basis">TesteTesteTeste 2</div>
+	<div class="item shrink-0-basis">Oi 3</div>
+	<div class="item shrink-0-basis">4</div>
+</section>
+
+<h1>flex-shrink: 0; / flex-basis: valor; / wrap</h1>
+<section class="container flex-wrap">
+	<div class="item shrink-0-basis">TesteTesteTesteTeste</div>
+	<div class="item shrink-0-basis">TesteTesteTeste 2</div>
+	<div class="item shrink-0-basis">Oi 3</div>
+	<div class="item shrink-0-basis">4</div>
+</section>
+
+<h1>flex-shrink: misturado; / flex-basis: valor;</h1>
+<section class="container">
+	<div class="item shrink-1-basis">1</div>
+	<div class="item shrink-1-basis">Teste 2</div>
+	<div class="item shrink-3-basis">3</div>
+	<div class="item shrink-3-basis">4</div>
+</section>
+
+<h1>flex-shrink: misturado; / flex-basis: valor; / wrap</h1>
+<section class="container flex-wrap">
+	<div class="item shrink-1-basis">1</div>
+	<div class="item shrink-1-basis">Teste 2</div>
+	<div class="item shrink-3-basis">3</div>
+	<div class="item shrink-3-basis">4</div>
+</section>
+<h1>flex: n 1 auto;</h1>
+<section class="container">
+	<div class="item basis-auto">Palavra 1</div>
+	<div class="item basis-auto">2</div>
+	<div class="item basis-auto-grow-2">3</div>
+	<div class="item basis-auto-width">4</div>
+	<div class="item basis-auto-grow-0">5</div>
+</section>
+
+<h1>flex: 1;</h1>
+<section class="container">
+	<div class="item basis-0">Test de Cont</div>
+	<div class="item basis-0">2</div>
+	<div class="item basis-0-grow-2">Palavra</div>
+	<div class="item basis-0-width">4</div>
+	<div class="item basis-0-grow-0">5</div>
+</section>
+
+<h1>flex: flex: 0 1 n;</h1>
+<section class="container basis-numero-container">
+	<div class="item basis-110">1</div>
+	<div class="item basis-110">12</div>
+	<div class="item basis-110">12345678910</div>
+	<div class="item basis-300">1234</div>
+	<div class="item basis-110-porcento">1</div>
+	<div class="item basis-110-porcento">12</div>
+	<div class="item basis-110-porcento">123</div>
+	<div class="item basis-110-porcento">1234</div>
+</section>
+
+<h1>flex: 0 1 n; // Diferente Conteúdo</h1>
+<section class="container basis-numero-container">
+	<div class="item basis-110">Conteúdo Grande</div>
+	<div class="item basis-110">PalavraMaior</div>
+	<div class="item basis-110">Oi</div>
+</section>
+
+<h1>flex: 1 1 n; //</h1>
+<section class="container basis-numero-container">
+	<div class="item basis-110-grow-1">1</div>
+	<div class="item basis-110-grow-1">12</div>
+	<div class="item basis-110-grow-1">1234</div>
+	<div class="item basis-110-grow-1">12345</div>
+	<div class="item basis-600-grow-1">5</div>
+</section>
+.order1 {
+	order: 1;
+}
+
+.order2 {
+	order: 2;
+}
+
+.order3 {
+	order: 3;
+}
+
+.order4 {
+	order: 4;
+}
+
+.order-1 {
+	order: -1;
+}
+
+.flex-grow {
+	flex-grow: 1;
+}
+
+.column {
+	flex-direction: column;
+}
+
+.item {
+	margin: 5px;
+	padding: 0 5px;
+	background: tomato;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+/* Flex Container */
+.container {
+	max-width: 400px;
+	margin: 0 auto;
+	display: flex;
+	border: 1px solid #ccc;
+}
+/* Flex Item */
+
+
+h1 {
+	text-align: center;
+	margin: 20px 0 0 0;
+	font-size: 1.25em;
+	font-weight: normal;
+}
+
+body {
+	font-family: monospace;
+	color: #333;
+}
+.flex-start {
+	align-self: flex-start;
+}
+
+.flex-end {
+	align-self: flex-end;
+}
+
+.center {
+	align-self: center;
+}
+
+.baseline {
+	align-self: baseline;
+}
+
+.stretch {
+	align-self: stretch;
+}
+
+.align-items {
+	align-items: flex-end;
+}
+
+.item {
+	flex: 1;
+	margin: 5px;
+	padding: 0 5px;
+	background: tomato;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+.item:first-child {
+	padding-top: 20px;
+}
+
+/* Flex Container */
+.container {
+	max-width: 400px;
+	margin: 0 auto;
+	display: flex;
+	border: 1px solid #ccc;
+}
+
+.column {
+	flex-direction: column;
+}
+
+h1 {
+	text-align: center;
+	margin: 20px 0 0 0;
+	font-size: 1.25em;
+	font-weight: normal;
+}
+
+body {
+	font-family: monospace;
+	color: #333;
+}
+<html>
